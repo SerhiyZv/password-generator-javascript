@@ -18,7 +18,12 @@ This application generates a random password based on user-selected criteria. Th
 
 ## Link
 
+Github repository:
 https://github.com/SerhiyZv/password-generator-javascript.git
+
+Life application:
+https://serhiyzv.github.io/password-generator-javascript/
+
 
 ## Screenshots
 
